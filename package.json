@@ -1,0 +1,29 @@
+{
+    "name": "tcc-ebac",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "cy:open": "npx cypress open",
+      "cy:run": "npx cypress run",
+      "cy:dashboard": "",
+      "cy:report": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/amandaccunha/TCC-EBAC.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/amandaccunha/TCC-EBAC/issues"
+    },
+    "homepage": "https://github.com/amandaccunha/TCC-EBAC#readme",
+    "devDependencies": {
+      "cypress": "^10.0.1",
+      "start-server-and-test": "^1.14.0"
+    }
+  }
+  
